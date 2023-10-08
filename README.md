@@ -1,6 +1,8 @@
 # 🍷 Wine dataset exploration
 
-The code, plots, and explanations are bundled together as a Jupyter notebook. Only `python` and `pip` are required to run the instructions below.
+The code, plots, and explanations are bundled together as a Jupyter notebook.
+
+Only `python` and `pip` are required to run the instructions below.
 
 ## 1. Prepare the environment
 ```bash
@@ -19,4 +21,4 @@ jupyter notebook wine.ipynb
 jupyter nbconvert --to html wine.ipynb
 ```
 
-This will generate the HTML report, which can then be viewed by any browser of your choice, or converted to PDF.
+This will generate the HTML report, which can be viewed in any browser or converted to PDF.
