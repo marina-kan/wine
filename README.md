@@ -1,4 +1,4 @@
-# Wine dataset exploration
+# 🍷 Wine dataset exploration
 
 The code, plots, and explanations are bundled together as a Jupyter notebook. Only `python` and `pip` are required to run the instructions below.
 
